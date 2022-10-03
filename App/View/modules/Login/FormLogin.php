@@ -1,6 +1,6 @@
 <form action="/login/auth" method="post">
 
-    <label>E-mail:</label>
+    <label>Email:</label>
     <input name="email" type="text" />
 
     <label>Senha:</label>
